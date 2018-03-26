@@ -1,1 +1,1 @@
-test: python "main.py"
+worker: node app.js
