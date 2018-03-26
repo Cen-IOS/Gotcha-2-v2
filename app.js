@@ -9096,5 +9096,4 @@ bot.on('guildMemberRemove', member => {
 });
 
 //login
-bot.login('NDI3ODQ2NDQyMjcxMzc1Mzky.DZqekA.MYXy-shix4U4k7Yxk2UJfi9YhOI');
-//bot.login(process.env.BOT_TOKEN);
+bot.login(process.env.BOT_TOKEN);
